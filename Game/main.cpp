@@ -1,8 +1,3 @@
-/***********************************************
- * Zeus CMD - GLUT Tutorial 02 : Keyboard Input *
- * By Grant James (ZEUS)                        *
- * http://www.zeuscmd.com                       *
- ***********************************************/
 #include <iostream>
 #include <GLUT/glut.h>
 
